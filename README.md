@@ -1,16 +1,19 @@
 # settlement
 
-A new Flutter project.
+A Flutter project to explain the settlement UI and overview of the process for Taxi Sharm Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### 1) Demo On POS
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/42842021/212340791-bed96e33-5b73-490f-9d7f-8b4ed9fa458b.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 2) Demo on Android Phone
+
+https://user-images.githubusercontent.com/42842021/212337228-a376f03e-a959-49be-a936-399fb639ac2d.mp4
+
+
+### 3) Workflow
+
+#### Coming soon
